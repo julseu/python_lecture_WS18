@@ -1,0 +1,30 @@
+Python lecture WS18
+===================
+
+Required Scripts
+================
+
+Here is some text describing the different scripts and files of the python lecture. Please print the script.::
+
+    print('Hello, World!')
+    >> Hello, World! 
+
+
+Overview
+^^^^^^^^
+
+Here could be an overview of the Python lectures.
+
+.. toctree::
+   :maxdepth: 2
+   
+   TimeSchedule
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
